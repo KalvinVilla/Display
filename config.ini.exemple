@@ -1,0 +1,6 @@
+[DISPLAY]
+#Path of folder with img / pdf / .web
+path = C:/Temp
+#Default second 
+seconds = 15
+
