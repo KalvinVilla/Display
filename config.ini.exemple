@@ -1,6 +1,5 @@
 [DISPLAY]
-#Path of folder with img / pdf / .web
-path = C:/Temp
-#Default second 
-seconds = 15
-
+# Path of folder with img / pdf / .web
+path_file = C:/Temp
+# Default second 
+default_display_time = 15
